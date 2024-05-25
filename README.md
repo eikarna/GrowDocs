@@ -12,6 +12,6 @@ There are two servers required for growtopia to work:
 You will find under those links how each of those parts works.
 
 Also you should check this stuff which is directly or undirectly related to packets:
-- [Types Definition](types_definition.md)
+- [Types Definition](Docs/types_definition.md)
 - [Items Data](Docs/Items%20Data/README.md)
 - [Packet Types](Docs/Packets/README.md)
