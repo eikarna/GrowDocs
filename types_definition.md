@@ -1,6 +1,6 @@
-# Types definiton
+# Types Definition
 
-There are few basic types in packets used. Most of them are classica C types, but there are few small differences.
+There are few basic types in packets used. Most of them are classic C types, but there are few small differences.
 
 ## string
 

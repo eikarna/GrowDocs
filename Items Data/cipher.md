@@ -1,11 +1,13 @@
-# Cypher for items dat file
+# Cipher for items data file
 
-All names in file items.dat are encoded using simple cypher. This cypher is for now always using key `PBG892FXX982ABC*`. This cypher is using XOR function, so same code can be used for both encoding and decoding. You will find code with explained functionality bellow.
+All names in file items.dat are encoded using simple cipher. This cipher is for now always using key `PBG892FXX982ABC*`. This cipher is using XOR function, so same code can be used for both encoding and decoding. You will find code with explained functionality bellow.
 
+> [!IMPORTANT]
+> The Write & Read logical for items.dat binary file is on LittleEndian position. Which mean if you just read it for every byte position without thinking about Endianness, it will mess.
 
-Here is code for decoding/encoding cypher:
+Here is code for decoding/encoding cypher in C++:
 ```CPP
-std::string secret = "PBG892FXX982ABC*"; // this contains cypher key
+std::string secret = "PBG892FXX982ABC*"; // this contains cipher key
 
 std::string input = "..."; // to this variable you need to assign input data
 int itemID = ...; // to this variable you need to assign ID of item for which you are encoding/decoding data

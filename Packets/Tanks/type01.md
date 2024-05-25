@@ -1,4 +1,4 @@
-# Tank packet type 1
+# Tank packet Type 1
 
 Packet senders:
 - [ ] Client
@@ -6,7 +6,7 @@ Packet senders:
 
 Fields used:
 - [x] NetID
-- [x] Extended data
+- [x] [Variant Packet](Variants/README.md)
 
 
 This packet is known as variant packet. It contains in extended data format known as VariantList which is coming from ProtonSDK. First item in VariantList is always a string which is name of function which should be executed.

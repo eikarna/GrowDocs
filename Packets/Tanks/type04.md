@@ -1,4 +1,4 @@
-# Tank packet type 4
+# Tank packet Type 4
 
 Packet senders:
 - [ ] Client
@@ -6,12 +6,12 @@ Packet senders:
 
 Fields used:
 - [ ] NetID
-- [x] Extended data
+- [x] World Packet
 
 
 This packet is known as world packet. It contains all world blocks and their settings, dropped items and even weather settings and such stuff.
 
-## Extended data description
+## World Packet data description
 
 - 6 bytes - currently unknown function
 - string - world name
@@ -51,7 +51,7 @@ Content of second item flags:
 
 This data might by followed by extra tile data. There can be determined if there are any extra tile data by item id. This is done by checking item id in items data and getting it's action type. Item type then has to be translated into extra tile data type, which requires translation table and can't be sadly done by other way. Then if this type is other than 0, tile extra data are added.
 
-You can read more about tile extra data more [here](extra_tile_data/README.md).
+You can read more about tile extra data more [here](Packets/Tanks/Extra%20Tile%20Data/README.md).
 
 ### Dropped items description
 

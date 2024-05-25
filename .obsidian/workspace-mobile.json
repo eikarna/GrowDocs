@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c20442eef4e8e8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8a09f8be84dba0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4ee75be8c34dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Packets/Tanks/Variants/README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8f23a148eb502ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ab7fb45511741ed4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "50f2f9c504efad1f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63944d14f99d2821",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "37f5789fac5ac537",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c5d8ae54816af145",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "83bc2350e7372f4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Packets/Tanks/Variants/README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cdc08ab867937411",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Packets/Tanks/Variants/README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6c4bcc7b76a41512",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Packets/Tanks/Variants/README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false
+    }
+  },
+  "active": "6f4ee75be8c34dab",
+  "lastOpenFiles": [
+    "Packets/Tanks/type01.md",
+    "Packets/packet_type4.md",
+    "Packets/README.md",
+    "README.md",
+    "Packets/Tanks/type16.md",
+    "types_definition.md",
+    "Items Data/README.md",
+    "Packets/Tanks/type04.md",
+    "Packets/Tanks/Extra Tile Data/README.md",
+    "Packets/Tanks/Variants/README.md",
+    "Packets/Tanks/type00.md",
+    "Packets/Tanks/Variants/OnSuperMain.md",
+    "Packets/Tanks/Variants/OnConsoleMessage.md",
+    "Packets/Tanks/Extra Tile Data/type000.md",
+    "Variants/README.md",
+    "Variants",
+    "Packets/Tanks/Variants/OnSetFreezeState.md",
+    "Packets/Tanks/Variants/OnSpawn.md",
+    "Packets/Tanks/Variants/OnPlayPositioned.md",
+    "Packets/Tanks/Variants/SetRespawnPos.md",
+    "Packets/Tanks/Variants/SetHasGrowID.md",
+    "Packets/Tanks/Variants/OnTextOverlay.md",
+    "Packets/Tanks/Variants/OnSetClothing.md",
+    "Packets/Tanks/Variants/OnRemove.md",
+    "Packets/Tanks/Variants/OnDialogRequest.md",
+    "Items Data/cipher.md",
+    "ENet Server/README.md",
+    "Packets"
+  ]
+}
