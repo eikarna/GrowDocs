@@ -6,12 +6,12 @@ This repostitory contain markdown files with explanations how growtopia works, b
 > Feel free to contribute to make this repo still maintained!
 
 There are two servers required for growtopia to work:
-- [HTTP/s Server](https_server/README.md)
-- [ENet Server](ENet%20Server/README.md)
+- [HTTP/s Server](Docs/HTTPs%20Server/README.md)
+- [ENet Server](Docs/ENet%20Server/README.md)
 
 You will find under those links how each of those parts works.
 
 Also you should check this stuff which is directly or undirectly related to packets:
 - [Types Definition](types_definition.md)
-- [Items Data](Items%20Data/README.md)
-- [Packet Types](Packets/README.md)
+- [Items Data](Docs/Items%20Data/README.md)
+- [Packet Types](Docs/Packets/README.md)

@@ -1,0 +1,9 @@
+Documentation:
+- changed-files:
+  - any-glob-to-any-file:
+    - docs/*
+
+Root:
+- changed-files:
+  - any-glob-to-any-file:
+    - **

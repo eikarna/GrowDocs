@@ -22,5 +22,5 @@ All Growtopia packets are made from two things:
 1. Packet type - This is field with four bytes in size.
 2. Packet data - This field have unlimited size, but always contain atleast one byte.
 
-And here are those packet types are listed at [Packet Types](/Packets/README.md)
+And here are those packet types are listed at [Packet Types](Docs/Packets/README.md)
 You will find there when to send those packets, then content and also table which tells you who is able of sending those packets (client or server).
