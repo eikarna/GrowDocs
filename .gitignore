@@ -1,3 +1,4 @@
 # Obsidian IDE
 .obsidian
 .trash
+*.sh
