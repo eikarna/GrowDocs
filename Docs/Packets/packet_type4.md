@@ -30,7 +30,7 @@ So let's look at packet structure first (it is always 56 bytes, not counting ext
 
 Packet types:
 - [00 - Character Update State](Tanks/type00.md)
-- [01 - Variant Packet](Tanis/type01.md)
+- [01 - Variant Packet](Tanks/type01.md)
 - [02 - ...](Tanks/type02.md)
 - [03 - ...](Tanks/type03.md)
 - [04 - World Packet](Tanks/type04.md)
