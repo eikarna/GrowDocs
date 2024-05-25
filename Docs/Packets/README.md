@@ -1,3 +1,4 @@
+# Packet Types
 Packet Types List:
 1. [Packet Type 1](packet_type1.md) - Pong Packet
 2. [Packet Type 2](packet_type2.md) - Text Packet
